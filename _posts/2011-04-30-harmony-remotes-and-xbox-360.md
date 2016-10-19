@@ -6,7 +6,7 @@ categories: [technology]
 ---
 It appears that there can be a handshake issue between some receivers (like my Denon AVR-2311CI) and the Xbox 360 console (like my "Fat" 60GB Pro model).  The issue occurs if the Xbox 360 is powered on too quickly after the receiver is powered on.  This seems like a simple fix, but from what I've been reading online there isn't a clear solution to the problem of delaying the Xbox 360 power on.
 
-Here is my solution.[teaserbreak]
+Here is my solution.
 <ol>
   <li>Launch the Harmony Remote Software (I'm using version 7.7.0).</li>
   <li>Find the activity (or activities) which utilize your Xbox 360 and click "Settings."<br /><div class="image_block"><a href="http://kylefarnung.com/media/blogs/kylefarnung/harmony/harmony1.png"><img alt="" src="http://kylefarnung.com/media/blogs/kylefarnung/harmony/harmony1.png" /></a></div></li>

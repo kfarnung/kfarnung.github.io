@@ -15,7 +15,7 @@ When I first bought my Lenovo ThinkPad T60, I was a little disappointed at the a
 
 A lot of the initial inspiration came from <a href="http://www.4saad.com/WhatsNew/Fresh_XP_Install/index.htm">this guide</a>, but everything here has been recreated from scratch to customize for T60 owners. This may work on other Lenovo models, but some of the instructions are likely to change slightly (mainly the drivers and hotfix). Anyway, let's get started.
 
-<strong>Update:</strong> I tried out the install last night and it seemed to work well. Windows booted up fine the first time and I had only minor problems with System Update not properly installing things. This may or may not have been caused by the slipstreaming, but if anyone is willing to experiment, you can easily leave out the network drivers and update pack (make sure to still use the Intel Storage Matrix Driver <del>and the KB896256 Hotfix</del>).[teaserbreak]
+<strong>Update:</strong> I tried out the install last night and it seemed to work well. Windows booted up fine the first time and I had only minor problems with System Update not properly installing things. This may or may not have been caused by the slipstreaming, but if anyone is willing to experiment, you can easily leave out the network drivers and update pack (make sure to still use the Intel Storage Matrix Driver <del>and the KB896256 Hotfix</del>).
 
 <blockquote><strong>If you have any suggestions or problems, please post a comment below!</strong></blockquote>
 

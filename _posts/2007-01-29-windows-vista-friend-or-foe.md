@@ -16,7 +16,7 @@ I have personally used Vista versions Beta 1, Beta 2, RC 1, RC 2, and Final Busi
 <ul>
   <li><a href="http://www.microsoft.com/windows/products/windowsvista/editions/choose.mspx">Windows Vista: Compare Editions</a></li>
   <li><a href="http://www.neowin.net/index.php?act=view&amp;id=37336">Windows Anytime Upgrade &amp; Family Discount Announced</a></li>
-</ul>[teaserbreak]
+</ul>
 
 Although I'm not currently running Vista on my laptop, I do plan to run it full-time in the very near future.  My first attempts at installing it went pretty well, but overall I just needed to go back to XP (Please note that there isn't an easy way to roll back to XP, I used an imaging software to backup my XP install).  Although the major drivers weren't an issue since Windows Vista has almost all of them built in, I couldn't help but be disappointed by the fact that none of my HP printers have drivers yet.  Granted this all happened before final release, I guess I just expected a little bit more from HP and Microsoft.  Also, not all of the utilities that I've grown to love on my ThinkPad have been upgraded yet, but with the progress Lenovo has been making I'm sure they will be done very soon.
 
