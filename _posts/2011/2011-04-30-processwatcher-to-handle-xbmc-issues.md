@@ -7,7 +7,7 @@ categories: [windows]
 I've been using XBMC for enjoying video and music on my TV, but have constantly encountered a bug where the video gets choppy if I've left XBMC open for too long.  To help remedy the situation without needing a full PC restart or the aid of a keyboard, I've created a simple tool that will monitor the XBMC process (or any process for that matter) and restart it if it exits.
 
 I call the tool ProcessWatcher and have decided to release it as a free download:
-<http://storage.kylefarnung.com/ProcessWatcher.zip>
+<https://kfarnung.github.io/content/processwatcher-to-handle-xbmc-issues/ProcessWatcher.zip>
 
 It does require that you have .NET Framework 4.0 installed:
 <http://www.microsoft.com/downloads/en/details.aspx?FamilyID=9cfb2d51-5ff4-4491-b0e5-b386f32c0992&amp;displaylang=en>

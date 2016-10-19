@@ -29,7 +29,7 @@ A lot of the initial inspiration came from [this guide](http://www.4saad.com/Wha
 * Tools
   * [nLite 1.4.7 or Newer](http://www.nliteos.com/download.html)
   * [Magical Jelly Bean Keyfinder v1.51](http://www.magicaljellybean.com/keyfinder.shtml)
-  * [Windows XP CD Package](http://www.kylefarnung.com/media/blogs/kftheblog/wxp.zip)
+  * [Windows XP CD Package](https://kfarnung.github.io/content/thinkpad-t60-how-to-make-a-custom-oem-wi/wxp.zip)
 * Updates
   * <ins>[Windows XP Service Pack 3 Network Installation Package](http://www.microsoft.com/downloadS/details.aspx?familyid=5B33B5A8-5E76-401F-BE08-1E1555D4F3D4&amp;displaylang=en) (*Essential*)</ins>
 
@@ -44,7 +44,7 @@ A lot of the initial inspiration came from [this guide](http://www.4saad.com/Wha
 7. Do not modify or remove any of the files in this folder since it will become the root of your CD.  Copy (don't move) the **C:\I386** folder containing the Windows install files into this folder so it becomes a subdirectory (ex. **C:\cds\wxppro\I386\**).
 8. Optionally, the **SUPPORT** and **VALUEADD** folders can similarly be copied into this folder since they are part of the original XP CD.
 
-> ![View of folder after preparation](http://www.kylefarnung.com/media/blogs/kftheblog/wxp-oem-01.png "View of folder after preparation")  
+> ![View of folder after preparation](https://kfarnung.github.io/images/thinkpad-t60-how-to-make-a-custom-oem-wi/wxp-oem-01.png "View of folder after preparation")  
 > *This is what the folder should look like after it has been prepared.
 > In my example I used the wxppro folder since my computer came with Windows XP Pro installed.*
 
@@ -53,37 +53,37 @@ A lot of the initial inspiration came from [this guide](http://www.4saad.com/Wha
 1.  Start the nLite program and click *Next*.
 2.  Click *Browse...* and browse for your Windows installation folder (either **wxphome** or **wxppro**).
 
-    > ![Locating the Windows installation](http://www.kylefarnung.com/media/blogs/kftheblog/wxp-oem-02.png "Locating the Windows installation")  
+    > ![Locating the Windows installation](https://kfarnung.github.io/images/thinkpad-t60-how-to-make-a-custom-oem-wi/wxp-oem-02.png "Locating the Windows installation")  
     > *This is what the screen should look like if you correctly located your Windows installation folder.*
 
 3.  Click *Next* twice to get to the "Task Selection" screen. Select the *Service Pack*, *Hotfixes and Update Packs*, *Drivers*, *Unattended*, and *Bootable ISO* tasks and click *Next*.
 
-    > ![Task Selection](http://www.kylefarnung.com/media/blogs/kftheblog/wxp-oem-03.png "Task Selection")  
+    > ![Task Selection](https://kfarnung.github.io/images/thinkpad-t60-how-to-make-a-custom-oem-wi/wxp-oem-03.png "Task Selection")  
     > *Make sure your Task Selection screen looks like this.*
   
 4.  On the "Service Pack" screen, click *Select* to locate the Service Pack 3 install file.  If a message comes up saying that "Previous Hotfixes have been detected," hit the *Yes* button to remove them.  Once the *Browse* window comes up, locate the executable for Service Pack 3, it should be called **WindowsXP-KB936929-SP3-x86-ENU.exe** and click *Open*.  Wait for the slipstream to complete and click the *OK* button when it says "Integrated install has completed successfully."  Make sure the version is now reported as "Windows XP &lt;Version&gt; Sp3" and click *Next*.
 5.  On the "Drivers" screen, click the *Insert* button and click *Single driver*. To add the Intel Storage Matrix driver, navigate to the driver folder (usually **C:\DRIVERS\WIN\IMSM**) and choose the file **iaahci.inf**. Select "Textmode driver" and only "Intel(R) 82801GBM SATA AHCI Controller (Mobile  ICH7M)" and click *OK*.
 
-    > ![Storage Device Textmode Drivers](http://www.kylefarnung.com/media/blogs/kftheblog/wxp-oem-05.png "Storage Device Textmode Drivers")  
+    > ![Storage Device Textmode Drivers](https://kfarnung.github.io/images/thinkpad-t60-how-to-make-a-custom-oem-wi/wxp-oem-05.png "Storage Device Textmode Drivers")  
     > *Make sure the selections match before clicking OK.*
   
 6.  To add the ethernet driver, click the *Insert* button and click *Single driver*. Navigate to the Intel PRO/1000 LAN driver folder (usually **C:\DRIVERS\WIN\ETHERNET\PRO1000\WS03XP2K**) and choose the file **e1e5132.inf**.
 7.  Optionally, you can do the same for the wireless driver by going to the correct driver folder (usually **C:\DRIVERS\WIN\WLANINT\XP\Drivers** for Intel PRO/Wireless) and choosing the correct file (**NETw39x5.inf** for Intel PRO/Wireless).
 8.  Once all the drivers are added, click the *Next* button to continue.
 
-    > ![Drivers](http://www.kylefarnung.com/media/blogs/kftheblog/wxp-oem-06.png "Drivers")  
+    > ![Drivers](https://kfarnung.github.io/images/thinkpad-t60-how-to-make-a-custom-oem-wi/wxp-oem-06.png "Drivers")  
     > *The driver integration screen should look similar to this.*
   
 9.  On the "Unattended" screen, you can modify a large number of options for the installer, but I only recommend filling in the product key.
 
-    > ![Unattended](http://www.kylefarnung.com/media/blogs/kftheblog/wxp-oem-07.png "Unattended")  
+    > ![Unattended](https://kfarnung.github.io/images/thinkpad-t60-how-to-make-a-custom-oem-wi/wxp-oem-07.png "Unattended")  
     > *I recommend filling in the product key only and leaving the other options alone.*
   
 10. When you click the *Next* button, you will be prompted with "Do you want to start the process?" If everything is correct on the previous screens, you should click *Yes* to make the modifications.
 11. Once the "Processing..." screen is finished, click the *Next* button to continue.
 12. On the "Bootable ISO" screen, you can choose whether to create an image, burn a CD, or burn an image that you have created previously. I usually create an image to test out on a virtual machine before burning.  You can choose any label you want, but I usually use the label "WXPFPP_EN" since it is the label used on all Windows XP Professional CDs I've dealt with.  Once all of the settings are correct, hit the *Make ISO* or *Burn* button.  If you chose to create an image, you will be prompted for a location to save it.
 
-    > ![Bootable ISO](http://www.kylefarnung.com/media/blogs/kftheblog/wxp-oem-08.png "Bootable ISO")  
+    > ![Bootable ISO](https://kfarnung.github.io/images/thinkpad-t60-how-to-make-a-custom-oem-wi/wxp-oem-08.png "Bootable ISO")  
     > *The settings I use to make an ISO for testing in a virtual machine before burning to CD.*
   
 13. Once the burn or image is complete, click the *Next* button and then the *Finish* button to exit the program.
