@@ -5,7 +5,7 @@ date: 2011-01-06 21:41:18 -0800
 categories: [windowsphone]
 link_url: http://www.microsoft.com/windowsphone/en-us/features/update-info.aspx
 ---
-The update has been announced since before the phone even launched, but now the "January Update" has become a bit more official.  Microsoft has posted a site (which used to give a <a href="http://www.microsoft.com/windowsphone/en-us/features/january-update.aspx">hint to the release date</a>) listing the three main features of the new update:
+The update has been announced since before the phone even launched, but now the "January Update" has become a bit more official.  Microsoft has posted a site (which used to give a [hint to the release date](http://www.microsoft.com/windowsphone/en-us/features/january-update.aspx)) listing the three main features of the new update:
 
 <blockquote><strong>Copy and paste</strong>
 Soon you’ll be able to copy text from emails, text messages, web pages, and Office Mobile documents, and paste it anywhere you can type.   Using copy and paste is easy and intuitive. In many cases you just tap a word, slide your finger to highlight any additional text, then tap the Copy icon. To insert this text in a message or app, just tap the spot where it should go, then tap the Paste icon.   Copy and paste is a handy way to quickly send someone’s latest Facebook update, turn-by-turn directions from Maps, or a must-see link from Internet Explorer Mobile. Once you’ve copied something, you can paste it again and again.   The new feature adds to the list of time-saving shortcuts already built into Windows Phone, like the ability to tap an address on a webpage to map it (US only).

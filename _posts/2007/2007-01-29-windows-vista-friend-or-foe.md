@@ -7,15 +7,15 @@ redirect_from: /2007/01/29/windows_vista_friend_or_foe/
 ---
 Microsoft's first new consumer operating system in five years is set to be released tomorrow (January 30th, my Birthday).  Although the final version was finished back on November 30th, a few months is needed for the major computer vendors to prepare their systems for production.  As of now it looks as though the major vendors like Dell, Lenovo, and HP have readied their lines and are already selling systems with the much anticipated new operating system.
 
-<blockquote><strong>Update:</strong> It appears that the Vista launch was scheduled for earlier tonight.  More information about the launch is available <a href="http://www.microsoft.com/windows/products/windowsvista/default.mspx">here</a>.</blockquote>
+<blockquote><strong>Update:</strong> It appears that the Vista launch was scheduled for earlier tonight.  More information about the launch is available [here](http://www.microsoft.com/windows/products/windowsvista/default.mspx).</blockquote>
 
 <div class="image_block"><img src="http://www.kylefarnung.com/media/blogs/kftheblog/windows_vista_logo.jpg" alt="" title="Windows Vista Logo" width="300" height="300" /><div class="image_legend">The logo for the new Microsoft operating system, Windows Vista.</div></div>
 
 I have personally used Vista versions Beta 1, Beta 2, RC 1, RC 2, and Final Business Edition, and I must say that I'm not very impressed.  Although a lot has changed since Windows XP, not in enough ways to make the steep upgrade and retail costs worth it.  So far I have only invested $10 in my Vista experience for shipping the Lenovo upgrade to Vista Business (which won't ship until March anyway).  Although I'd like to upgrade that version to Vista Ultimate when it arrives (using the new Anytime Upgrade feature), I think the $139 upgrade price from Business to Ultimate is still too steep given the few added features.  For a full comparison of the different editions and upgrade prices, see the links below.
 
 <ul>
-  <li><a href="http://www.microsoft.com/windows/products/windowsvista/editions/choose.mspx">Windows Vista: Compare Editions</a></li>
-  <li><a href="http://www.neowin.net/index.php?act=view&amp;id=37336">Windows Anytime Upgrade &amp; Family Discount Announced</a></li>
+  <li>[Windows Vista: Compare Editions](http://www.microsoft.com/windows/products/windowsvista/editions/choose.mspx)</li>
+  <li>[Windows Anytime Upgrade &amp; Family Discount Announced](http://www.neowin.net/index.php?act=view&amp;id=37336)</li>
 </ul>
 
 Although I'm not currently running Vista on my laptop, I do plan to run it full-time in the very near future.  My first attempts at installing it went pretty well, but overall I just needed to go back to XP (Please note that there isn't an easy way to roll back to XP, I used an imaging software to backup my XP install).  Although the major drivers weren't an issue since Windows Vista has almost all of them built in, I couldn't help but be disappointed by the fact that none of my HP printers have drivers yet.  Granted this all happened before final release, I guess I just expected a little bit more from HP and Microsoft.  Also, not all of the utilities that I've grown to love on my ThinkPad have been upgraded yet, but with the progress Lenovo has been making I'm sure they will be done very soon.
