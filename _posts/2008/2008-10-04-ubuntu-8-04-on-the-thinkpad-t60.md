@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ubuntu 8.04 on the Thinkpad T60
-date: 2008-10-04 23:44:13 -0500
+date: 2008-10-04 23:55:10 -0700
 categories: [linux]
 ---
 Well, as typically happens with me, I got bored and decided to try something new.  This time it was Ubuntu Linux on my trusty Thinkpad T60.  I hadn't tried Linux in quite some time and was pleasantly surprised by my experience.

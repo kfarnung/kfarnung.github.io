@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Harmony Remotes and Xbox 360 Power on Delays
-date: 2011-04-30 12:09:11 -0800
+date: 2011-04-30 13:01:00 -0800
 categories: [technology]
 ---
 It appears that there can be a handshake issue between some receivers (like my Denon AVR-2311CI) and the Xbox 360 console (like my "Fat" 60GB Pro model).  The issue occurs if the Xbox 360 is powered on too quickly after the receiver is powered on.  This seems like a simple fix, but from what I've been reading online there isn't a clear solution to the problem of delaying the Xbox 360 power on.

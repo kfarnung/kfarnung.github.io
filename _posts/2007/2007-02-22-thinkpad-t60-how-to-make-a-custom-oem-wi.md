@@ -1,9 +1,9 @@
 ---
 layout: post
 title: ThinkPad T60 - How to Make a Custom OEM Windows CD
-date: 2007-02-21 19:45:44 -0500
+date: 2007-02-22 00:05:00 -0800
 categories: [windows]
-redirect_from: /2007/02/21/thinkpad_t60_how_to_make_a_custom_oem_wi/
+redirect_from: /2007/02/22/thinkpad_t60_how_to_make_a_custom_oem_wi/
 ---
 > **Now updated for Windows XP SP3, if you encounter any problems, please let me know!**
 >

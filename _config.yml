@@ -30,3 +30,9 @@ theme: minima
 # Jekyll Settings
 #
 permalink: /:year/:month/:day/:title/
+
+gems:
+  - jekyll-redirect-from
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-feed
